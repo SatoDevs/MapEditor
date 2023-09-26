@@ -16,6 +16,9 @@ A C# Map Editor for my main game project
 ![a](crazysurgery2.png)
 ![a](crazysurgery3.png)
 
+#Combat game
+![a](combat.gif)
+
 # Current project
 ![main project](snowing2.gif)
 ![a](lamps.gif)
